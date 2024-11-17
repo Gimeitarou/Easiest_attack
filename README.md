@@ -15,6 +15,7 @@ I wrote this with a hope that I wrote in the first part.<br>
 Thanx a lot and hope you'll use this app.<br>
 <br>
 <br>Demo video: not yet ready.
+<br>Remarks:Run the EXE, and you'll find [TEXT.txt] generated. And again run the EXE, rewrite [TEXT.txt], repeat these until that says 'crashed'.
 
 # License
 The source code is licensed MIT.
