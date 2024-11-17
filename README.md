@@ -10,7 +10,7 @@ When debugging, I sometimes lost [TEXT.txt]. The text file is the key to crack t
 Executable form is not good from the point of security because users are rarely capable of knowing how it works and if capable few do it.<br>
 Anyway, I have good news. I have no capability of making devastigative malware nor spyware and I do not want My nick name, Gimeitarou famous for bad coder or developer.<br>
 If you do not trust me, just build it by nuitka by yourself. mightbe by PyInstaller. It's on you.<br>
-I'm Japanese college student and wrote this README.md without any translation tools.(Not every README.md, actually)<br>
+I'm a Japanese college student and wrote this README.md without any translation tools.(Not every README.md, actually)<br>
 I wrote this with a hope that I wrote in the first part.<br>
 Thanx a lot and hope you'll use this app.<br>
 <br>
