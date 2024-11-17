@@ -30,4 +30,4 @@ else:
     time.sleep(3)
 
 #Copyright (c) 2024 Gimeitarou
-#This software is released under the MIT License, see LICENSE, see LICENSE.
+#This software is released under the MIT License, see LICENSE.
