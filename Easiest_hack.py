@@ -12,6 +12,7 @@ if os.path.isfile('TEXT.txt') == False:
     print('Wait for a moment...')
     time.sleep(3)
     print(TextContents)
+    time.sleep(3)
     exit()
 
 #put contenst of TEXT.txt into OverWritten
