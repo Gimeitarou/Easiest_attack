@@ -17,7 +17,7 @@ f = open("TEXT.txt", 'r', encoding='UTF-8')
 OverWritten = f.read()
 f.close
 
-#check whether OverWritten is overwritten
+#check whether OverWritten is overwritten in a specific way
 if (OverWritten == 'I wrote this code.') or (OverWritten == 'This code is written by ME.'):
     subprocess.run('color f0 ' #white
                    +'& echo crashed & timeout 5 > nul '
