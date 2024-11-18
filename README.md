@@ -3,7 +3,7 @@ I hope Easiest_hack is utilized by teachers to tell kids hacking is fun and ethi
 <br>
 Easiest_hack is console-based application. This app reply to us by only 2 ways:<br>
 'This code is written by GIMEITAROU.' or<br>
-'crashed, nice crash!!' following console turning white.<br>
+'crashed, nice crash!!' with the console turning white.<br>
 Easiest_hack.exe is executable of Easiest_hack.py built by Nuitka.<br>
 Of course, Easiest_hack is coded by python, so users can run the code in cmd prompt or some. You can use it in that way, but I rather reccomend use it in EXE form. The reason is below.<br>
 When debugging, I sometimes lost [TEXT.txt]. The text file is the key to crack the app, that is what the app generate in the first execution. However, the app generate it on Current folder, I intensionaly did that. That is because I do not want this app or code running on only limited folder, so I decided it works in that way and I'll explain the reason and tell it's better to use it in executable form.<br>
