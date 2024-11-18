@@ -1,4 +1,4 @@
-Easiest_hack is coded with a wish that more and more kids get interested in hacking and will become ethical hackers in the future.<br>
+Easiest_hack is coded with a wish that more and more kids get aware of capability of hacking system, it's funny and, without concensus, that's bad thing and makes creater of system sad or angury. And I want to teach them, there's ethical hackers who support our security.<br>
 I hope Easiest_hack is utilized by teachers to tell kids hacking is fun and ethical hacking is the key to our life supported by higher security.<br>
 <br>
 Easiest_hack is console-based application. This app reply to us by only 2 ways:<br>
