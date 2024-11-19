@@ -13,7 +13,7 @@ Of course, Easiest_attack is coded by python, so users can run the code in cmd p
 #Anyway, I have good news. I have no capability of making devastigative malware nor spyware and I do not want my nick name, Gimeitarou famous for bad coder or developer.<br>
 #If you don't trust me, just build it by nuitka by yourself. mightbe by PyInstaller. It's on you.<br>
 <br>
-#English is not my mother tong but I'm writting this without any translation tools because I wanna tell you my passion on this app.<br>
+#English is not my mother tongue but I'm writting this without any translation tools because I wanna tell you my passion on this app.<br>
 #I lease this app with a hope that I wrote in the first part.<br>
 #Thanx a lot and hope you'll use this app.<br>
 <br>

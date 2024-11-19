@@ -12,7 +12,7 @@ if os.path.isfile('TEXT.txt') == False:
     print('Wait for a moment...')
     time.sleep(3)
 
-#put contenst of TEXT.txt into OverWritten
+#put contents of TEXT.txt into OverWritten
 f = open("TEXT.txt", 'r', encoding='UTF-8')
 OverWritten = f.read()
 f.close
