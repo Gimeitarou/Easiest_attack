@@ -1,5 +1,5 @@
-#Easiest_attack is coded with a wish that more and more kids get aware of capability of attacking systems, it's funny and, without concensus, that's bad thing and makes creater of system sad or angury. And I want to teach them, there's ethical hackers who support our security.<br>
-#I hope Easiest_attack utilized by teachers to tell kids attacking systems is fun and ethical hacking is the key to our life supported by higher security.<br>
+#Easiest_attack is coded with a wish that more and more kids get aware of capability of attacking systems, it's funny and, without concensus, that's bad thing and makes creater of system sad or angury.<br>
+#I hope Easiest_attack utilized by teachers to tell kids attacking systems is fun and it is the key to our life supported by higher security.<br>
 <br>
 #Easiest_attack is console-based application. This app reply to us by only 2 ways:<br>
 \Usualy says 'This code is written by GIMEITAROU.'<br>
