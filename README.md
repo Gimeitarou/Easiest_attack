@@ -13,7 +13,7 @@ Of course, Easiest_attack is coded by python, so users can run the code in cmd p
 #If you're likely not to trust me, just build it by Nuitka by yourself. mightbe by PyInstaller. It's just on you.<br>
 <br>
 #English is not my mother tongue but I'm writting this without any translation tools because I wanna tell you my passion on this app.<br>
-#I lease this app with a hope that I wrote in the first part.<br>
+#I release this app with a hope that I wrote in the first part.<br>
 #Thanx a lot and hope you'll use this app.<br>
 <br>
 Demo video: not yet ready.<br>
