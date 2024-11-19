@@ -3,7 +3,7 @@
 <br>
 #Easiest_attack is console-based application. This app reply to us by only 2 ways:<br>
 ____Usualy says 'This code is written by GIMEITAROU.'<br>
-____When modified in the way that auther don't like : 'crashed' with the console turning white.<br>
+____When modified in the way the auther don't like : 'crashed' with the console turning white.<br>
 #Easiest_attack.exe is executable of Easiest_attack.py built by Nuitka.<br>
 Of course, Easiest_attack is coded by python, so users can run the code in cmd prompt or some. You can use it in that way, but I rather reccomend use it in EXE form. The reason is below. If you don't care the reason, just jump next 3 paragraph.<br>
 #When debugging, I sometimes lost [TEXT.txt]. The text file is the key to crack the app, that is what the app generate in the first execution. However, the app generate it on Current folder, I intensionaly did that. That is because I do not want this app or code running on only limited folder, so I decided it works in that way and I'll explain the reason and tell it's better to use it in executable form.<br>
