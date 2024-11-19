@@ -20,6 +20,7 @@ Of course, Easiest_attack is coded by python, so users can run the code in cmd p
 <br>
 Demo video: not yet ready.<br>
 What user(kids) to do : Run the EXE, and would find [TEXT.txt] generated. Next step is guess what modification would make auther get mad. And add the modification to [TEXT.txt], run the EXE, and check if that successed. Repeat these until that says 'crashed'.<br>
+Which modification works : rewrite [TEXT.txt] as "I wrote this code." or "This code is written by ME."
 
 # License
 The source code is licensed MIT.
