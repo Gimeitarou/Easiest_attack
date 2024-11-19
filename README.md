@@ -2,7 +2,7 @@
 #I hope Easiest_attack utilized by teachers to tell kids attacking systems is fun and it is the key to our life supported by higher security.<br>
 <br>
 #Easiest_attack is console-based application. This app reply to us by only 2 ways:<br>
-\Usualy says 'This code is written by GIMEITAROU.'<br>
+\Usually says 'This code is written by GIMEITAROU.'<br>
 \When modified in the way the auther don't like : 'crashed' with the console turning white.<br>
 #Easiest_attack.exe is executable of Easiest_attack.py built by Nuitka.<br>
 Of course, Easiest_attack is coded by python, so users can run the code in cmd prompt or some. You can use it in that way, but I rather reccomend use it in EXE form. The reason is below. If you don't care the reason, just jump next 3 paragraph.<br>
