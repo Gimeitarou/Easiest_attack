@@ -5,12 +5,12 @@ import subprocess
 
 AutherSigniture = "Written by GIMEITAROU."
 
-if os.path.isfile('Signiture.txt') == False: #When no Signiture.txt
+#check if there's Signiture.txt or not
+if os.path.isfile('Signiture.txt') == False: #if no Signiture.txt
     print("Let's look for your first Honey Pod.\n") #First greeting
     time.sleep(2)
-    #creates Signiture.txt
     f = open("Signiture.txt", 'w', encoding='UTF-8')
-    f.write(f'{AutherSigniture}')
+    f.write(f'{AutherSigniture}') #creates Signiture.txt
     f.close()
     print('Making signiture file...')
     time.sleep(3)
