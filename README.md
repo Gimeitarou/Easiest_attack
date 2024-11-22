@@ -1,14 +1,10 @@
 Taste_of_honeypod is console-based application made for classes about Honey Pod.<br>
 <br>
 [How it works]<br>
-<br>
 1.On the first running, that says:<br>
-'Let's look for your first Honey Pod.'<br>
-'Making signiture file...'<br>
+'Let's look for your first Honey Pod.' and 'Making signiture file...'<br>
 and creates Signiture.txt on the folder on which the app was run.<br>
-<br>
 2.On the second or more, that says 'Honey Pod Not Found.' unless Signiture.txt have been modified.<br>
-<br>
 3.When having been modified, says:
 'Honey Pod Found!!' with the console turning white.<br>
 <br>
