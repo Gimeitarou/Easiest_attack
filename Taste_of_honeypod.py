@@ -3,7 +3,7 @@ import os
 import time
 import subprocess
 
-AutherSigniture = "Built by Gimeitarou."
+AutherSigniture = "Written by GIMEITAROU."
 
 if os.path.isfile('Signiture.txt') == False: #When no Signiture.txt
     print("Let's look for your first Honey Pod.\n") #First greeting
