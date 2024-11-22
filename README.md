@@ -4,7 +4,7 @@
 1.On the first running, that says:<br>
 'Let's look for your first Honey Pod.'<br>
 'Making signiture file...'<br>
-and creates Signiture.txt on the folder on which the app was run.
+and creates Signiture.txt on the folder on which the app was run.<br>
 2.On the second or more, that says 'Honey Pod Not Found.' unless Signiture.txt have been modified.<br>
 3.When having modified, says:
 'Honey Pod Found!!' with the console turning white.<br>

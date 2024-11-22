@@ -21,7 +21,7 @@ f = open("Signiture.txt", 'r', encoding='UTF-8')
 OverWritten = f.read()
 f.close
 
-#check if Signiture.txt is overwritten or not
+#check if Signiture.txt have been modified or not
 if OverWritten != AutherSigniture:
     subprocess.run('color f0 ' #white
                    +'& echo Honey Pod Found !! & timeout 5 > nul '
