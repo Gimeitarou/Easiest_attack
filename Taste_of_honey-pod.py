@@ -30,7 +30,7 @@ if OverWritten != AutherSigniture:
                    +'& echo Best wishes for your Red team life!'
                    +'& timeout 3 > nul', shell=True)
 else:
-    print("Let's look for your first Honey Pod.\n")
+    print("Not Found.\n")
     time.sleep(2)
 
 
