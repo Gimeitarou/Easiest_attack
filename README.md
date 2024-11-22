@@ -10,7 +10,7 @@ and creates Signiture.txt on the folder on which the app was run.<br>
 'Honey Pod Found!!' with the console turning white.<br>
 <br>
 The contents of Signiture.txt is 'Written by GIMEITAROU.'<br>
-So adding modification to Signiture.txt means the auther is not GIMEITAROU.<br>
+So adding modification to Signiture.txt is equal to saying the auther is not GIMEITAROU.<br>
 Through this app, teachers can teach students this is how developers can detect malcious behavior.<br>
 <br>
 Taste_of_honeypod.exe is executable form of Taste_of_honeypod.py<br>
