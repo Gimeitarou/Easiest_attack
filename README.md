@@ -24,7 +24,7 @@ If you trust me, download the EXE and use it.<br>
 If do not, just build it by yourself.<br>
 It's on you.<br>
 <br>
-Thank you for reading and I look forward to your using.
+Thank you for reading and I'm look forward to your using.
 <br>
 <br>
 Demo video: not ready.<br>
