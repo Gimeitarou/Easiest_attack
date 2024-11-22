@@ -2,11 +2,12 @@ import os
 import time
 import subprocess
 
-AutherSigniture = "Written by GIMEITAROU."
+AutherSigniture = "Written by Gimeitarou."
+
+print("Dear bears, look for your first honey-pod.\n") #First greeting
 
 #make Signiture.txt only when it doesn't exist
 if os.path.isfile('Signiture.txt') == False: #check if there's Signiture file or not
-    print("Dear bears, look for your first honey-pod.\n") #First greeting
     f = open("Signiture.txt", 'w', encoding='UTF-8')
     f.write(f'{AutherSigniture}')
     f.close()
@@ -25,11 +26,7 @@ if OverWritten != AutherSigniture:
                     +'& color 0f '#black
                     +'& echo Tasty or not?'
                     +'& echo Happy Red team life, dear.'
-                    +'& timeout 3 > nul'
-                    +'& ', shell=True)
-else:
-    print("Seach for first honey-pod.")
-    time.sleep(3)
+                    +'& timeout 3 > nul', shell=True)
 
 #Copyright (c) 2024 Gimeitarou
 #This software is released under the MIT License, see LICENSE.
