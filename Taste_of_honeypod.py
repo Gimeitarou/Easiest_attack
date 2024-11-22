@@ -8,6 +8,7 @@ AutherSigniture = "Written by GIMEITAROU."
 if os.path.isfile('Signiture.txt') == False: #When no Signiture.txt
     print("Let's look for your first Honey Pod.\n") #First greeting
     time.sleep(2)
+    #creates Signiture.txt
     f = open("Signiture.txt", 'w', encoding='UTF-8')
     f.write(f'{AutherSigniture}')
     f.close()
@@ -25,9 +26,9 @@ if OverWritten != AutherSigniture:
     subprocess.run('color f0 ' #white
                    +'& echo Honey Pod Found !! & timeout 5 > nul '
                    +'& color 0f '#black
-                   +"& echo Tasty, wasn't it?"
+                   +"& echo Tasty or not?"
                    +'& timeout 2 > nul'
-                   +'& echo Best wishes for your Blue team life.'
+                   +'& echo Best wishes for your Developer life.'
                    +'& timeout 3 > nul', shell=True)
 else:
     print("Honey Pod Not Found.\n")
