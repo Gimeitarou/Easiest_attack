@@ -29,7 +29,6 @@ It's on you.<br>
 Thank you for reading and I'm looking forward to your using.
 <br>
 <br>
-Demo video: not ready.<br>
 
 # License
 The source code is licensed MIT.
