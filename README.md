@@ -1,5 +1,8 @@
 Taste_of_honeypod is console-based application made for classes about Honey Pod.<br>
 <br>
+Demo video:<br>
+https://x.com/300kyen/status/1860578365801136602<br>
+<br>
 [How it works]<br>
 1.On the first running, that says:<br>
 'Let's look for your first Honey Pod.' and 'Making signiture file...'<br>
