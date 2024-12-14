@@ -1,3 +1,5 @@
+[This code is for Windows]
+
 Taste_of_honeypod is console-based application made for classes about Honey Pod.<br>
 <br>
 Demo video:<br>
